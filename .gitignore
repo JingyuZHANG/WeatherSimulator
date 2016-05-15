@@ -1,0 +1,7 @@
+*/target
+metastore_db
+.idea
+.DS_Store
+.settings/
+.classpath
+.project
