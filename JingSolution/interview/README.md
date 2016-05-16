@@ -36,7 +36,9 @@ Run the application
 ./start.sh
 
 OR
+
 (2)
+
 java -cp Interview.jar Main <file> <file> <date> <duration> <file>
 
 e.g. java -cp Interview.jar Main items.txt alerts.json 2016-05-20 30 output.txt
